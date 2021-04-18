@@ -1,0 +1,16 @@
+C:\Swinburne 2021\Programing\homestuff\Arraystask\obj\Debug\net5.0\Arraystask.csprojAssemblyReference.cache
+C:\Swinburne 2021\Programing\homestuff\Arraystask\obj\Debug\net5.0\Arraystask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swinburne 2021\Programing\homestuff\Arraystask\obj\Debug\net5.0\Arraystask.AssemblyInfoInputs.cache
+C:\Swinburne 2021\Programing\homestuff\Arraystask\obj\Debug\net5.0\Arraystask.AssemblyInfo.cs
+C:\Swinburne 2021\Programing\homestuff\Arraystask\obj\Debug\net5.0\Arraystask.csproj.CoreCompileInputs.cache
+C:\Swinburne 2021\Programing\homestuff\Arraystask\bin\Debug\net5.0\Arraystask.exe
+C:\Swinburne 2021\Programing\homestuff\Arraystask\bin\Debug\net5.0\Arraystask.deps.json
+C:\Swinburne 2021\Programing\homestuff\Arraystask\bin\Debug\net5.0\Arraystask.runtimeconfig.json
+C:\Swinburne 2021\Programing\homestuff\Arraystask\bin\Debug\net5.0\Arraystask.runtimeconfig.dev.json
+C:\Swinburne 2021\Programing\homestuff\Arraystask\bin\Debug\net5.0\Arraystask.dll
+C:\Swinburne 2021\Programing\homestuff\Arraystask\bin\Debug\net5.0\ref\Arraystask.dll
+C:\Swinburne 2021\Programing\homestuff\Arraystask\bin\Debug\net5.0\Arraystask.pdb
+C:\Swinburne 2021\Programing\homestuff\Arraystask\obj\Debug\net5.0\Arraystask.dll
+C:\Swinburne 2021\Programing\homestuff\Arraystask\obj\Debug\net5.0\ref\Arraystask.dll
+C:\Swinburne 2021\Programing\homestuff\Arraystask\obj\Debug\net5.0\Arraystask.pdb
+C:\Swinburne 2021\Programing\homestuff\Arraystask\obj\Debug\net5.0\Arraystask.genruntimeconfig.cache
